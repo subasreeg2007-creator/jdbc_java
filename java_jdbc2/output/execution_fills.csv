@@ -1,0 +1,1 @@
+order_id,trader_id,ticker,side,filled_price,quantity,slippage_ticks,commission,quality_score,quality_grade,executed_at

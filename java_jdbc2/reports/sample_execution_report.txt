@@ -1,0 +1,17 @@
+HIGH FREQUENCY TRADING ENGINE - SAMPLE REPORT
+Generated from fictional simulated market data; not a live exchange report.
+
+Order ID: SAMPLE-EXEC-01
+Trader: demo-trader
+Instrument: AAPL
+Side / quantity: BUY / 10
+Limit price: 190.0200
+Simulated fill price: 190.0200
+Execution slippage: 1 tick (tick size 0.01)
+Commission: 1.9002 (simulated rate 0.10%)
+Execution quality score: approximately 91.20 / 100
+Grade: Alpha Execution
+Strategy signal score: depends on selected strategy and entered telemetry
+
+The sample is illustrative. The application writes actual simulated fills and
+circuit-breaker events to the CSV files in output/ after you run it.
